@@ -1,4 +1,4 @@
-content-scraper
+content-scraper - IN DEVELOPMENT
 ===============
 
 Scrapes main content from a Google spreadsheet of old-design URLs, creates clean local HTML files.
